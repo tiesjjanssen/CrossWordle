@@ -1,4 +1,4 @@
-import java.awt.*;
+import java.awt.*;r
 import javax.swing.*;
 import javax.swing.border.*;
 
@@ -71,4 +71,5 @@ public class CrossWordle {
     public static void main(String[] args) {
         new CrossWordle().renderFrame();
     }
+
 }
